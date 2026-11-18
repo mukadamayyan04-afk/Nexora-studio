@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Studio",
+  "description": "AI-powered creation platform for Android APKs, 2D/3D games, websites, and spatial 3D pipelines with multi-provider Model Hub and smart routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <defs>
+    <linearGradient id="nxf-bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#131320" />
+      <stop offset="100%" stop-color="#0a0a0f" />
+    </linearGradient>
+    <linearGradient id="nxf-left" x1="16" y1="14" x2="25" y2="50" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#a78bfa" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+    <linearGradient id="nxf-right" x1="39" y1="14" x2="48" y2="50" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4cd7f6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="nxf-bridge" x1="16" y1="16" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#d0bcff" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#4cd7f6" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#nxf-bg)" stroke="#8b5cf6" stroke-opacity="0.45" stroke-width="2" />
+  <polygon points="16,49 16,18 24.5,13 24.5,44" fill="url(#nxf-left)" />
+  <polygon points="39.5,51 39.5,20 48,15 48,46" fill="url(#nxf-right)" />
+  <polygon points="16,18 24.5,13 48,46 39.5,51" fill="url(#nxf-bridge)" />
+  <polygon points="32,26 37,32 32,38 27,32" fill="#ffffff" />
+</svg>
